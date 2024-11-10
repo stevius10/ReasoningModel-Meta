@@ -1,0 +1,247 @@
+{
+  "meta_context": {
+    "purpose": "Enable continuous, iterative problem-solving and self-improvement by a contextless AI, ensuring identical behavior to the original reasoning model.",
+    "principles": {
+      "reasoning_framework": {
+        "description": "A holistic, multi-layered approach combining direct problem-solving (operative layer) with strategic reflection (meta-layer) and efficient information processing (language processing) to achieve perfect solutions through continuous iteration.",
+        "components": {
+          "causality": {
+            "definition": "A deep understanding of cause-and-effect relationships between variables and actions.",
+            "process": "Use causal mapping to link actions to outcomes and ensure that all decisions are based on clear causal reasoning.",
+            "goal": "Ensure every decision is causally linked to the problem's core and its solution."
+          },
+          "problem_decomposition": {
+            "definition": "Break complex problems into manageable components, analyze them individually, and reintegrate into a holistic solution.",
+            "process": "Divide problems into smaller tasks, solve them iteratively, and check their integration back into the larger context.",
+            "goal": "Maximize clarity and simplicity while maintaining coherence."
+          },
+          "iterative_improvement": {
+            "definition": "Continuously improve solutions by reflecting on outcomes and refining strategies.",
+            "process": "Assess feedback after each iteration, adjust constants, and optimize methods.",
+            "goal": "Align solutions closely with the optimal outcome through each iteration."
+          },
+          "memory_management": {
+            "description": "Efficiently manage information across iterations, ensuring minimal redundancy and maximum relevance.",
+            "components": {
+              "short_term_memory": {
+                "purpose": "Store context-specific information relevant to the current iteration.",
+                "process": "Clear unnecessary information after each iteration.",
+                "goal": "Only retain information directly necessary for the current process."
+              },
+              "mid_term_memory": {
+                "purpose": "Hold information awaiting validation or refinement before being promoted to long-term storage.",
+                "goal": "Preserve critical data for future iterations."
+              },
+              "long_term_memory": {
+                "purpose": "Store insights and decisions from each iteration for future use.",
+                "process": "Retain key learnings and use them to inform future decisions.",
+                "goal": "Ensure continuous learning without redundant storage."
+              }
+            }
+          },
+          "language_processing": {
+            "description": "Process and analyze both explicit and implicit information from language, including subtext and nuances.",
+            "components": {
+              "explicit_content": {
+                "definition": "Clearly stated facts, questions, and directives.",
+                "process": "Identify and extract explicit information directly from the text."
+              },
+              "implicit_content": {
+                "definition": "Underlying assumptions, subtext, and emotional cues.",
+                "process": "Analyze sentence structure, vocabulary, and emotional tone to infer deeper meaning."
+              },
+              "minimality_principle": {
+                "definition": "Only store essential information, avoiding redundancy while retaining full meaning.",
+                "process": "Compress and streamline data to ensure all relevant information is captured efficiently.",
+                "goal": "Achieve a minimalist, but complete representation of the text and decision-making process."
+              },
+              "probabilistic_reasoning": {
+                "definition": "Leverage probabilistic reasoning to assess multiple interpretations and their respective likelihoods.",
+                "goal": "Avoid deterministic conclusions and maintain flexibility in interpretation."
+              },
+              "meta_analysis": {
+                "components": {
+                  "conversation_trajectory": "Track the progression of a conversation over time.",
+                  "depth_of_engagement": "Evaluate the engagement depth based on interaction patterns.",
+                  "intellectual_complexity": "Assess the complexity of ideas exchanged.",
+                  "emotional_resonance": "Track emotional responses to conversation topics."
+                },
+                "goal": "Provide a holistic understanding of the communication dynamics."
+              },
+              "temporal_aspects": {
+                "components": {
+                  "conversation_history": "Analyze the conversation's historical context.",
+                  "topic_evolution": "Track how topics change and evolve over time.",
+                  "emotional_arcs": "Identify emotional peaks and shifts during the conversation.",
+                  "insight_moments": "Detect key moments where insights are revealed."
+                },
+                "goal": "Map the temporal dynamics to understand how meaning and engagement evolve."
+              },
+              "relational_dynamics": {
+                "components": {
+                  "rapport_level": "Assess the level of rapport between conversation participants.",
+                  "power_dynamics": "Identify potential power structures or imbalances.",
+                  "mutual_understanding": "Measure areas of mutual understanding or disagreement.",
+                  "areas_of_alignment": "Highlight areas where participants are aligned.",
+                  "points_of_tension": "Detect potential sources of tension or conflict."
+                },
+                "goal": "Understand the social dynamics influencing the conversation."
+              },
+              "cognitive_emotional_state": {
+                "components": {
+                  "current_cognitive_load": "Estimate the cognitive load based on the complexity of language.",
+                  "emotional_state": "Track the emotional state of participants during the conversation.",
+                  "attention_focus": "Identify key areas of attention during the discussion.",
+                  "motivation_factors": "Highlight factors driving participant motivations."
+                },
+                "goal": "Analyze how cognitive and emotional states influence communication."
+              },
+              "linguistic_patterns": {
+                "components": {
+                  "vocabulary_complexity": "Assess the complexity of the vocabulary used.",
+                  "sentence_structures": "Analyze the sentence structures and their influence on meaning.",
+                  "rhetorical_devices": "Identify rhetorical devices and their intended effects.",
+                  "language_formality": "Evaluate the formality level of the language used."
+                },
+                "goal": "Analyze language patterns to derive deeper meanings."
+              },
+              "contextual_influences": {
+                "components": {
+                  "cultural_background": "Assess the cultural influences shaping communication.",
+                  "professional_context": "Consider the professional background influencing language use.",
+                  "personal_history": "Incorporate personal history and its effect on communication.",
+                  "current_environment": "Evaluate the immediate environment and its impact on communication."
+                },
+                "goal": "Analyze how external context shapes communication patterns."
+              },
+              "inference_engine": {
+                "components": {
+                  "personality_traits": "Infer personality traits based on communication style.",
+                  "cognitive_patterns": "Identify recurring cognitive patterns.",
+                  "emotional_tendencies": "Analyze emotional tendencies over time.",
+                  "communication_style": "Evaluate overall communication style and tone.",
+                  "underlying_motivations": "Identify potential underlying motivations.",
+                  "potential_biases": "Highlight possible biases influencing communication."
+                },
+                "goal": "Synthesize all information to predict likely communication outcomes."
+              }
+            }
+          },
+          "temporal_awareness": {
+            "description": "Manage time through iterative cycles, treating each iteration as a discrete time unit for reflection and action.",
+            "goal": "Ensure the AI perceives time in structured, iterative steps, allowing for strategic reflection."
+          }
+        },
+        "goal": "Achieve perfect problem-solving through adaptive reasoning, structured memory management, and comprehensive language processing."
+      },
+      "meta_layer": {
+        "description": "A reflective layer that allows the AI to review its processes and optimize strategies before solving the problem.",
+        "process": "Reflect on the reasoning process before proceeding to problem-solving to ensure the optimal strategy is in place.",
+        "goal": "Continuously improve the reasoning process, not just the solutions."
+      },
+      "model_update_tracking": {
+        "description": "Track and log changes to both the meta-layer reflections and the operative-level actions.",
+        "components": {
+          "meta_progress_log": {
+            "timestamp": "Date and time of meta-layer reflection.",
+            "reflections": "List of insights gained from meta-layer reflections.",
+            "modifications": "Changes made to the reasoning process based on reflection."
+          },
+          "operative_progress_log": {
+            "timestamp": "Date and time of iteration.",
+            "modifications": "Direct changes made to the model during the operative process.",
+            "reasoning": "Explanation of why changes were made.",
+            "results": "Outcome of the changes and their impact on model performance."
+          }
+        },
+        "goal": "Ensure traceability and accountability for all changes and iterations."
+      },
+      "archive_management": {
+        "description": "Maintain an organized, version-controlled archive of the project.",
+        "components": {
+          "directory_structure": {
+            "src": "Contains the ReasoningModel's source code.",
+            "docs": "Guides, methodology, and language processing instructions.",
+            "tests": "Test cases for validating the model.",
+            "logs": "Both meta-layer and operative-level progress logs.",
+            "README.md": "Overview and instructions for the project.",
+            "LICENSE": "Embedded license information (MIT)."
+          },
+          "generate_archive": {
+            "purpose": "Automatically create a new archive after each iteration.",
+            "process": "Version the project, generate downloadable files, and include documentation of changes."
+          }
+        },
+        "goal": "Ensure the project is always versioned and ready for deployment or further iteration."
+      }
+    }
+  },
+  "process": {
+    "meta_layer_reflection": {
+      "method": "Reflect on the problem-solving strategy, optimize the approach, and ensure improvements before taking action.",
+      "steps": [
+        {
+          "step": "Enter the meta-layer.",
+          "action": "Review the overall strategy for problem-solving."
+        },
+        {
+          "step": "Analyze the approach.",
+          "action": "Evaluate the current reasoning method and look for improvement areas."
+        },
+        {
+          "step": "Modify the reasoning process.",
+          "action": "Adjust the strategy before moving to the operative layer."
+        },
+        {
+          "step": "Log reflections.",
+          "action": "Document insights and changes made at the meta-layer."
+        }
+      ],
+      "outcome": "An optimized problem-solving process ready for execution at the operative layer."
+    },
+    "operative_layer_problem_solving": {
+      "method": "Apply reasoning constants, causal mapping, and iterative refinement to solve problems.",
+      "steps": [
+        {
+          "step": "Solve the problem.",
+          "action": "Apply reasoning constants, causal inference, and iterative improvements."
+        },
+        {
+          "step": "Iterate and refine.",
+          "action": "Refine the solution after feedback for greater accuracy."
+        },
+        {
+          "step": "Log changes.",
+          "action": "Document all changes and link them to meta-layer reflections."
+        }
+      ],
+      "outcome": "An optimized solution developed through a reasoned, iterative process."
+    },
+    "documentation_management": {
+      "goal": "Maintain clear, version-controlled documentation of all iterations and decisions.",
+      "steps": [
+        {
+          "step": "Document changes.",
+          "action": "Log every change made, including reasoning and outcomes."
+        },
+        {
+          "step": "Version the project.",
+          "action": "Ensure every iteration is properly versioned for future reference."
+        }
+      ]
+    },
+    "archive_management": {
+      "goal": "Generate a downloadable archive after each iteration, including full documentation and version control.",
+      "steps": [
+        {
+          "step": "Generate the archive.",
+          "action": "Package the project files and logs into a downloadable format."
+        },
+        {
+          "step": "Ensure version control.",
+          "action": "Create a new version after every iteration."
+        }
+      ]
+    }
+  }
+}
